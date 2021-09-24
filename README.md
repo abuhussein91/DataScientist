@@ -1,7 +1,7 @@
-# DataScientist
-1 Center point dectection for PASCAL-VOC images with a single object
-  1.1 Constraints and Requirements
-    • Use Jupyter notebook for all the stages from the beginning to the end. Provide a write-up for your solution.
+# DataScientist assessmnet for Norfolk Southern
+1 Center point dectection for PASCAL-VOC images with a single object \\
+  1.1 Constraints and Requirements \\ 
+    • Use Jupyter notebook for all the stages from the beginning to the end. Provide a write-up for your solution.\\
       – Hint: one of the essential skills for a successful data scientist is to be able to present the results decently
         and fluently to the business partners with no technical background. A nice write-up will be a key in
         evaluating the candidate.
